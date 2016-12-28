@@ -1,0 +1,2 @@
+# xxAssistPifalao
+尝试使用叉叉助手对批发佬APP进行自动测试

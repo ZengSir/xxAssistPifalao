@@ -1,0 +1,14 @@
+[SOURCE]
+1\SOURCEFILE=C:/Users/wuxin/Documents/xspworkspace/TestPifalao/xsp/src/deal.lua
+2\SOURCEFILE=C:/Users/wuxin/Documents/xspworkspace/TestPifalao/xsp/src/judge.lua
+size=4
+3\SOURCEFILE=C:/Users/wuxin/Documents/xspworkspace/TestPifalao/xsp/src/main.lua
+4\SOURCEFILE=C:/Users/wuxin/Documents/xspworkspace/TestPifalao/xsp/src/util.lua
+
+[UI]
+1\UIFILE=C:/Users/wuxin/Documents/xspworkspace/TestPifalao/xsp/ui/ui.json
+size=1
+
+[RES]
+size=1
+1\RESFILE=C:/Users/wuxin/Documents/xspworkspace/TestPifalao/xsp/res/\x6279\x53d1\x4f6c\x5b57\x5e93.txt
